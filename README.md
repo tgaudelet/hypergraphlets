@@ -3,7 +3,7 @@ Hypergraphlet counter
 
 Example:
 
-./run_hypercounter -g *path_to_file/hyperedge.list* -o *path_to_output/name_of_output* -t *Number of threads, default 1* -b *Number of groups of genes to launch across the threads, default 50*
+./run_hypercounter -g "path_to_file/hyperedge.list" -o "path_to_output/name_of_output" -t "Number of threads, default 1" -b "Number of groups of genes to launch across the threads, default 50"
 
 The hyperedge list should follow the format:
       - tab separated

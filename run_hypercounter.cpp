@@ -1,5 +1,5 @@
-#include "hypergraph.h"
-#include "hypercounter.h"
+#include "source/hypergraph.h"
+#include "source/hypercounter.h"
 #include <iostream>
 #include "time.h"
 #include <vector>
